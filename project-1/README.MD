@@ -1,7 +1,7 @@
 # My First README.md
 
 ## Misty Daniels
-...
+***
 
 `The assignment was a little confusing to be honest, but I did learn quite a bit! I've coded in C# before, but Markdown is not something Im used to **whatsoever**.`
 
