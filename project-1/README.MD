@@ -1,12 +1,11 @@
 # My First README.md
 
 ## Misty Daniels
-___
+...
 
 `The assignment was a little confusing to be honest, but I did learn quite a bit! I've coded in C# before, but Markdown is not something Im used to **whatsoever**.`
 
-Things that I've learned!
-
+Things that I've learned
 
 1. How to organize my files
 2. How to name files
