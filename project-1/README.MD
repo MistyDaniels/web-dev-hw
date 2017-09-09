@@ -14,6 +14,9 @@ Things that I've learned
   * Or begin file names with numbers
 3. Also did you know cables *run through the oceans*?!
 
+The Wayback Machine was pretty fun. I did check out some old sites that I frequented as a kid (neopets.com.sg and of course myspace.com).
+It was interesting to see how different and stylized they are now! Things are much less boxy, and much more.. animated!
+
 [Heres a helpful link reminder!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 
 ![Screenshot Of my Directory](./images/screenshot-1.png)
