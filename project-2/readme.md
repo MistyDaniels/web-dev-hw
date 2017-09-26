@@ -17,6 +17,6 @@
    thought it was simply a different way to italicize or bold text, but it also
     affects how screen readers pronounce words. I thought that was interesting.
 
-  As for the future, I plan creating a tutorial for making frybread. It is simple
-   enough that it wont be overwhelming, but with enough steps to build a few
-    pages.
+  As for the future, I plan creating a tutorial for making frybread. It is
+   simple enough that it wont be overwhelming, but with enough steps to build
+    a few pages.
