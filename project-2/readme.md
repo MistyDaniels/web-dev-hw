@@ -3,6 +3,22 @@
   ## Misty Daniels
   ***
 
+  The past two weeks Ive worked on three pages for my project. I've managed to
+  make a nifty little form that I'm a little proud of.
+  Im still working on keeping my code neat and organized, which is the toughest
+  thing to keep in mind with so much going on.
+  I had a little trouble making sure to close everything, and found myself going
+  back through everything to figure out where I forgot a closing bracket.
+  But I have learned a lot of nifty code!
+  I really enjoyed building the form, it got a little repetitive and I wonder
+   if it gets a little better with Java.
+   Adding images and the table were pretty straight forward, thankfully, and
+   didnt take too much time.
+   I did manage to combine bits and pieces of what I've learned and make my
+   home, instructions, and form links into neat little buttons!
+
+  ***
+
   This week I created a new index and readme file for a series of new webpages we
    will work on later.
   I learned that it can be important to leave messages, reminders, todos, notes,
