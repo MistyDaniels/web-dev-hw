@@ -3,6 +3,21 @@
   ## Misty Daniels
   ***
 
+  This week I learned how to use media in HTML, ID and Class attributes, and
+  how to add meta data. These have all been really great and fun to learn.
+  I added a new contact page and changed my old one to a suggestions form. It
+  made a lot more sense. I also added an about section, which gave a little more
+  info on who I am and why I chose this subject.
+  This has been a really informative section, but I am really pumped to get
+  started on the CSS section, as I have a little experience with it from my
+  former school!
+  Im still happy having learned how to embed my own hosted media into a site,
+  rather than just embedding a link to a video from youtube or something.
+  I did struggle a bit with the ID attributes, and will likely review this
+  section later on just in case.
+
+  ***
+
   The past two weeks Ive worked on three pages for my project. I've managed to
   make a nifty little form that I'm a little proud of.
   Im still working on keeping my code neat and organized, which is the toughest
