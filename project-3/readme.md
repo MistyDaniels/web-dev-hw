@@ -7,12 +7,12 @@
 I've selected a color palette based on the **book**. In photoshop I lifted colors
 directly from the *original* cover and from the movie poster.
 
-*![white](./images/faeac8.jpg)
-*![purple](./images/4a2786.jpg)
-*![red](./images/c11104.jpg)
-*![green](./images/797d0e.jpg)
-*![black](./images/000000.jpg)
-*![gold](./images/f4c502.jpg)
+* ![white](./images/faeac8.jpg)
+* ![purple](./images/4a2786.jpg)
+* ![red](./images/c11104.jpg)
+* ![green](./images/797d0e.jpg)
+* ![black](./images/000000.jpg)
+* ![gold](./images/f4c502.jpg)
 
 ***
 
