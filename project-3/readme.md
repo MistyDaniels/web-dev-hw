@@ -4,6 +4,18 @@
 
 ***
 
+I've selected a color palette based on the **book**. In photoshop I lifted colors
+directly from the *original* cover and from the movie poster.
+
+*![white](./images/faeac8.jpg)
+*![purple](./images/4a2786.jpg)
+*![red](./images/c11104.jpg)
+*![green](.images/797d0e.jpg)
+*![black](.images/000000.jpg)
+*![gold](.images/f4c502.jpg)
+
+***
+
 After reading through this weeks CSS lesson, I'm starting to formulate some
 ideas for the coming project.
 I want to make a 90's style page, maybe not as ugly, but with the eye
@@ -22,33 +34,25 @@ Maybe I can find some fanart that I'm able to use for this site?
 ***
 Color ideas: Black, navy, deep purple, neon red, neon orange, neon purple/blue.
 ***
-Possible quote:
-"Scientists talk about dark matter, the invisible, mysterious substance
+1. Possible quote:
+`Scientists talk about dark matter, the invisible, mysterious substance
 that occupies the space between stars. Dark matter makes up 99.99 percent
 of the universe, and they dont know what it is. Well I do. Its apathy.
 Thats the truth of it; pile together everything we know and care about in the
 universe and it will still be nothing more than a tiny speck in the middle
-of a vast black ocean of Who Gives a Fuck"
+of a vast black ocean of Who Gives a Fuck`
 
-or
-
-“From day one it was like society was this violent, complicated dance and
+1. `From day one it was like society was this violent, complicated dance and
 everybody had taken lessons but me. Knocked to the floor again, climbing to my
 feet each time, bloody and humiliated. Always met with disapproving faces,
 waiting for me to leave so I'd stop fucking up the party.
-
-The wanted to push me outside, where the freaks huddled in the cold. Out there
-with the misfits, the broken, the glazed-eye types who can only watch as the
-normals enjoy their shiny new cars and careers and marriages and vacations with
-the kids.
-
-The freaks spend their lives shambling around, wondering how they got left out,
-mumbling about conspiracy theories and bigfoot sightings. Their encounters with
-the world are marked by awkward conversations and stifled laughter, hidden
-smirks and rolled eyes. And worst of all, pity.”
+The wanted to push me outside, where the freaks huddled in the cold. Out there with the misfits, the broken, the glazed-eye types who can only watch as the normals enjoy their shiny new cars and careers and marriages and vacations with
+the kids. The freaks spend their lives shambling around, wondering how they got left out,
+mumbling about conspiracy theories and bigfoot sightings. Their encounters with the world are marked by awkward conversations and stifled laughter, hidden smirks and rolled eyes. And worst of all, pity.`
 
 Im not sure yet if I should use the short biography on his amazon as a cited
 source, especially since David Wong is a psuedonym for his real name,
-Jason Pargin.
-
+Jason Pargin, or if I'll use his page [John Dies at the End](http://www.johndiesattheend.com).
 I'll flesh things out more as I go.
+
+![Screenshot of my directory](./images/screenshot.png)
