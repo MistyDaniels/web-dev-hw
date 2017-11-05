@@ -6,6 +6,9 @@
 
 The second font, Rozha seems to be working well. I can actually see a good
 difference in them.
+With the fonts, style, and color scheme it really gives off that grungry
+90's sorta dated style hotel room look I was going for. Because really that
+aesthetic is perfect for the book.
 
 ***
 I had a little trouble with linking the fonts. I decided to use a PT Sans style
