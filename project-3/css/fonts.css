@@ -1,0 +1,34 @@
+
+/*@import url('https://fonts.googleapis.com/css?family=PT+Sans|Rozha+One');
+*/
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+<link href="https://fonts.googleapis.com/css?family=PT+Sans|Rozha+One"
+rel="stylesheet">
+
+font-family: 'PT Sans', sans-serif;
+
+
+@font-face {
+  font-family: 'PT Sans';
+  src:
+    url('./fonts/PT_Sans-Web-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src:
+    url('../fonts/PT_Sans_Web_Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src:
+    url("../fonts/PT_Sans_Web_Italic.ttf") format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
