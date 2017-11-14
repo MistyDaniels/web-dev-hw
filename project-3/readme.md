@@ -3,6 +3,22 @@
 ## Misty Daniels
 
 ***
+Finally finished my webpage! I hope!
+This section was a little easier for me to follow. The dropdown menues were a
+lot of fun to work with, though Im still having a little trouble with getting
+everything exactly where I want it. I suppose that could just take a little time
+and fiddling till I get into the real groove of things.
+I also really enjoyed the little side menus. It makes everything seem .. cleaner?
+Just gives it all a more modern film rather than just the blocky little menus
+I was using before.
+The padding and everything also really helped in that aspect, getting everything
+to flow and float better was a relief. Though that needs a little work and practice
+too!
+This was a really fun section and I learned more than I expected!
+
+
+
+***
 
 The second font, Rozha seems to be working well. I can actually see a good
 difference in them.
