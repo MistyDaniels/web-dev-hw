@@ -15,8 +15,8 @@ looking at some other sites really helped me along.
 
 I got 2 images that I'll be using. One is of my color palette and the other
 is of my wireframes.
-(./images/palette.png)
-(./images/wireframe.png)
+![palette](./images/palette.png)
+![wireframe](./images/wireframe.png)
 But Im having a lot of trouble getting them to sit next to one another?
 
 
