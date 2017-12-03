@@ -1,7 +1,17 @@
-# Final README
+# Fourth README
 
 
-
+Im still having trouble getting my image
+to center but I forgot it for now.
+I was able to successfully get the page
+to change when I changed the window size
+which is great!
+It actually looks really great as it is
+so I'm not sure if I'll add another b
+break point or not. We'll see.
+I didnt have too much trouble, and
+looking at some other sites really helped me along.
+***
 
 I got 2 images that I'll be using. One is of my color palette and the other
 is of my wireframes.
